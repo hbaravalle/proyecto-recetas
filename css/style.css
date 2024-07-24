@@ -19,6 +19,10 @@ header {
   border-radius: 6px;
 }
 
+h1 {
+  color: #444;
+}
+
 header nav {
 }
 header nav ul {
